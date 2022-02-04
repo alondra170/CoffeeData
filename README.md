@@ -1,0 +1,2 @@
+# CoffeeData
+The goal of this project is to falsify or justify the widespread belief that the quality of the mathematical publications of the individual is related to the amount and the quality of the coffee consumed by this individual. The research findings are hoped to be published, thus allowing to educate the general public about the correlation between coffee consumption and quality of mathematical publications.
