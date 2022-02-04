@@ -8,3 +8,5 @@ We will:
   * establish criteria about quality coffee - possibly chain-based
 
 The criteria for the quality of the publication might be based on the impact factors or similar indexes for the journals where the paper was published. We will also collect data about coffee consumption and quality. This will be done by accessing publicly available budget information about this kind of expenses (e.g., quantity and brand of the coffee purchased for the department, as well as the brand of the coffee machine used, the proximity of the Starbucks to the campus, etc.)
+
+## DATA COLLECTION
