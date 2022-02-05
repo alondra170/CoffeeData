@@ -11,5 +11,7 @@ The criteria for the quality of the publication might be based on the impact fac
 
 ## DATA COLLECTION
 ### Coffee Consumption and Quality
+1. Web Scraper For List of Universities
+2. API For Coffee Quanitity
 
 ### Publication Quality
