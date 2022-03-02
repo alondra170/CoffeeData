@@ -13,7 +13,7 @@ The criteria for the quality of the publication might be based on the impact fac
 ### Coffee Consumption and Quality
 1. Web Scraper For List of Universities
 2. API For Coffee Quanitity
-   Google Places API: for retreiving information on coffee shops around a university.
-   Google Distance API: for verifying appropriate distance from target location
+   \nGoogle Places API: for retreiving information on coffee shops around a university.
+   \nGoogle Distance API: for verifying appropriate distance from target location
 
 ### Publication Quality
